@@ -1,3 +1,11 @@
 1. INSTALL LARAVEL PROJECT
 -> composer create-project laravel/laravel backend
-2. 
+2. INSTALL BREEZE
+-> composer require laravel/breeze --dev
+-> php artisan breeze:install api
+3. ADD AppServiceProvider
+->     use Illuminate\Support\Facades\Schema;
+->    Schema::defaultStringLength(191);
+4. MIGRATE THE USERS MODEL 
+->php artisan migrate
+5.
