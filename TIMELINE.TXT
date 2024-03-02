@@ -39,3 +39,5 @@ index.css removed the default
 @tailwind components;
 @tailwind utilities;
 --------------------------------------
+10. INSTALL DAISYUI AS A PLUGGIN 
+-> npm i -D daisyui@latest
