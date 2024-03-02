@@ -9,3 +9,4 @@
 4. MIGRATE THE USERS MODEL 
 ->php artisan migrate
 5. INSTALL FRONTEND USING VITE-BUNDLER
+->npm create vite@latest frontend -- --template react
