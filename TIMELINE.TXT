@@ -41,3 +41,8 @@ index.css removed the default
 --------------------------------------
 10. INSTALL DAISYUI AS A PLUGGIN 
 -> npm i -D daisyui@latest
+add the pluggins 
+module.exports = {
+  //...
+  plugins: [require("daisyui")],
+}
