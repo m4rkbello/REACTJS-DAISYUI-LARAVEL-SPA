@@ -46,3 +46,5 @@ module.exports = {
   //...
   plugins: [require("daisyui")],
 }
+11. ADD SEEDER 
+->php artisan migrate:fresh --seed
