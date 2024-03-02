@@ -8,4 +8,4 @@
 ->    Schema::defaultStringLength(191);
 4. MIGRATE THE USERS MODEL 
 ->php artisan migrate
-5.
+5. INSTALL FRONTEND USING VITE-BUNDLER
